@@ -1,13 +1,11 @@
 # ModuleWeb - 可以通过可视化模块化制作简单的静态网站和简单的贺卡  （也可以通过提示词来生成）
+
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="./001.png" />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/68cfb809-6727-47ba-bbfe-2f8f0b778bd9
 
 ## Run Locally
 
