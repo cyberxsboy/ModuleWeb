@@ -16,8 +16,9 @@ View your app in AI Studio: https://ai.studio/apps/68cfb809-6727-47ba-bbfe-2f8f0
 ## 本地电脑上面进行构建代码：
 
 1. Install dependencies:
-   'npm install --legacy-peer-deps'
+   'npm install'
 2. 'npm run build'
+   如果出错，就上面的命令换成 'npm install --legacy-peer-deps'
 
 
 ### 然后，将生成的dist目录上传到服务器上面进行部署HTML项目就可以了。
