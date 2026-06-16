@@ -1,0 +1,6 @@
+{
+  "name": "ModuleWeb",
+  "description": "在线模块化网页与动画贺卡生成平台，支持本地拖拽布局、一键导出、100%离线极速文本与Markdown大纲高保真转HTML、自定义域名Https部署指南，以及高分辨率下载与一键托管。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
