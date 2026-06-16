@@ -13,8 +13,11 @@ View your app in AI Studio: https://ai.studio/apps/68cfb809-6727-47ba-bbfe-2f8f0
 **Prerequisites:**  Node.js
 
 
+## 本地电脑上面进行构建代码：
+
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   'npm install --legacy-peer-deps'
+2. 'npm run build'
+
+
+### 然后，将生成的dist目录上传到服务器上面进行部署HTML项目就可以了。
